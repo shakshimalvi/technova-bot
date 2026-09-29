@@ -1,4 +1,3 @@
-@"
 # TechNova Customer Support Bot
 
 A customer-support chatbot built with LangGraph and NVIDIA AI Endpoints.
