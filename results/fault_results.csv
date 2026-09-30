@@ -1,0 +1,6 @@
+test_case,question,status,response
+Unknown Order ID,Where is my order TN9999?,PASS,"I’m sorry, but I couldn’t find any record for order **TN9999**.  
+If you think this is a mistake, please double‑check the order number or let me know if you’d like me to look up a different ID."
+Invalid Policy Topic,What is the cancellation policy?,PASS,"I’m sorry, but I don’t have a specific cancellation policy on hand. However, I can share our general returns policy if that would help. Let me know if you’d like that information!"
+Empty Input,,PASS,"Hello! 👋 I’m here to help with any TechNova questions—whether it’s checking an order, learning about returns, warranty details, or shipping info. How can I assist you today?"
+Unexpected Question,What is the capital of France?,PASS,The capital of France is Paris.

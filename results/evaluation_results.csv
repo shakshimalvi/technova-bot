@@ -1,0 +1,15 @@
+test_case,question,expected_keywords,status,response
+Order Status,Where is my order TN1001?,"TN1001, Shipped, 2 days",PASS,Your order **TN1001** (Laptop Pro 14) has been shipped and is expected to arrive in **2 days**. Let me know if you need anything else!
+Return Policy,What is the return policy?,"30 days, original packaging",PASS,"**Return Policy**
+
+- You can return most items within **30 days** of receipt.  
+- The product must be in its original packaging and in the same condition you received it.  
+- For more details or to initiate a return, let me know the item or order number."
+Warranty Policy,What is the warranty policy?,"1, year, manufacturer warranty",PASS,"All electronics come with a 1‑year manufacturer warranty. If you need more details or have a specific product in mind, just let me know!"
+Shipping Policy,What is the shipping policy?,"999, 3-5",PASS,"**Shipping Policy**
+
+- **Free shipping** on orders over ₹999.  
+- Standard delivery time is **3–5 business days** from the date of dispatch.  
+
+If you have any more questions or need help with a specific order, just let me know!"
+Unknown Order,Where is my order TN9999?,"TN9999, couldn't find",PASS,"I’m sorry, but I couldn’t find any record for order **TN9999**. It’s possible the ID was entered incorrectly or the order hasn’t been processed yet. Could you double‑check the order number and let me know? If you need help locating it, I can also look up your recent orders."

@@ -1,0 +1,5 @@
+question,input_tokens,output_tokens,total_tokens
+Where is my order TN1001?,373,48,421
+What is the return policy?,366,61,427
+What is the warranty policy?,368,40,408
+What is the shipping policy?,372,53,425
